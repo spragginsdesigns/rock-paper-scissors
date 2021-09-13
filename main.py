@@ -1,4 +1,4 @@
-    #
+#
 import keyboard
 import os
 import random
@@ -7,7 +7,7 @@ import time
 
 def ask_username():
     # Asks and Stores your username
-    # it should contain only alphabets and numbers
+    # only alphabets and numbers
     while True:
         username = input("Enter Your Username: ")
         if len(username) < 3 or len(username) > 20:
