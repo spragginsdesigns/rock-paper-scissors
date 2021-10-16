@@ -9,6 +9,6 @@ I would like to add a user interface to this one day and probably will.
 
 ###### <u>Created by:</u>
 
-Austin Spraggins | [Spraggins Designs™]([Spraggins Designs](https://www.spragginsdesigns.com/) 
+[Austin Spraggins Designs](https://www.spragginsdesigns.com/) 
 
- [Shadow Gaming LLC](https://www.youtube.com/c/shadowgaming99)
+[Shadow Gaming LLC](https://www.youtube.com/c/shadowgaming99)
