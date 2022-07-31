@@ -21,6 +21,8 @@ def ask_username():
             print(
                 "Please ensure your username only contains alphabets and numbers" + '\n')
     # Returns the username for future use
+    # I love my children. Lilly Spraggins and Julian Spraggins. 
+    # I made this for you, I love you so much both of you. 
     return username
 
 
